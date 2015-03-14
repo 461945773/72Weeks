@@ -17,7 +17,7 @@ function change(num) {
         num = docs.length;
     }
     var x = num.toString();
-    var src = "/image/" + x + ".jpg";
+    var src = "./image/" + x + ".jpg";
     document.getElementById("img").src = src;
 }
 
