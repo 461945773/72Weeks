@@ -1,0 +1,73 @@
+
+body {
+
+    margin: 0px;
+
+    padding: 0px;
+
+    font-family: '华文行楷';
+	font-size: 18px;
+
+}
+
+header {
+
+    color: red;
+
+    text-align: center;
+
+    font-weight: bold;
+
+    text-shadow: 2px 2px 2px pink;
+
+    font-size: 20px;
+
+}
+
+section {
+
+    width: 600px;
+
+    margin: 0 auto;
+
+    overflow: hidden;
+
+}
+
+#img {
+
+    width: 250px;
+
+    height: 300px;
+
+    float: right;
+
+}
+
+.dashed {
+
+    border: 4px dashed lightblue;
+
+    -moz-border-radius: 8px;
+
+    -webkit-border-radius: 8px;
+
+    border-radius: 8px;
+
+}
+
+.content {
+
+    margin-left: 5px;
+
+    padding-left: 5px;
+
+    width: 330px;
+
+    float: left;
+
+    text-indent: 2em;
+
+    overflow: hidden;
+
+}
